@@ -1,2 +1,2 @@
-FROM hshar/webapp
+FROM  shubhsharm/jenkins
 ADD ./devopsIQ /var/www/html/devopsIQ
